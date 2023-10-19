@@ -23,4 +23,23 @@ The 10(Ten) key questions generated were;
 - Table showing Employee's Names and designation
 
 - Result/Discussion:
+# The Highest Salary per annum
+The highest salary per annum is 99,46,188.00,
+- below is a snapshot showing the result and the sql command used to derive the result
+- ![](SQL_PROJECT11.PNG)
+- --
+# The Lowest Salary per annum
+The lowest salary per annum is 1,04,07,691.00,
+- below is a snapshot showing the result and the sql command used to derive the result
+- ![](SQL_PROJECT12.PNG)
+- --
+# The Average Salary per annum is 40 when returned with no decimal place 
+- below is a snapshot showing the result and the sql command used to derive the result
+- - ![](SQL_PROJECT3.PNG)
+- --
+# The Top 3 Salary Earners
+- The top 3 Salary earners are as seen in the snapshot below with the command used to derive at the result
+- ![](SQL_PROJECT5.PNG)
+
+
 
