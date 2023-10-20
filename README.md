@@ -38,8 +38,38 @@ The lowest salary per annum is 1,04,07,691.00,
 - - ![](SQL_PROJECT3.PNG)
 - --
 # The Top 3 Salary Earners
-- The top 3 Salary earners are as seen in the snapshot below with the command used to derive at the result
+- The top 3 Salary earners are as seen in the snapshot below.
 - ![](SQL_PROJECT5.PNG)
+- --
+# Employee's Average Yearly increment per annum,
+- The Employee's Average Yearly increment per annum are as seen in the snapshot below.
+- ![](SQL_PROJECT4.PNG)
+- --
+# Employees whose Average Salaries and their Average yearly increment are greater than 4000
+- The Employees whose Average Salaries and their Average yearly increment are greater than 4000 are as seen in the snapshot below.
+- ![](SQL_PROJECT7.PNG)
+- --
+# Table showing Employee's Names and their Salaries per annum
+- The Table showing Employee's Names and their Salaries per annum are as seen in the snapshot below.
+- ![](SQL_PROJECT6.PNG)
+- --
+# Employee Salaries in ROW NUMBER() by descending order,
+- The Employee Salaries in ROW NUMBER() by descending order are as seen in the snapshot below.
+- ![](SQL_PROJECT9.PNG)
+- --
+#  Employees whose salaries are above Average
+- The Employees whose salaries are above Average (Represened by their ID's) are as seen in the snapshot below.
+- ![](SQL_PROJECT8.PNG)
+- --
+# The Table showing Employee's Names and designation
+- The table showing Employee's Names and designation are as seen in the snapshot below
+- ![](SQL_PROJECT1O.PNG)
+- --
+# **Conclusion:**
+The analysis conducted using the Employee,Department and Salary datasets has valuable insights.From analyzing the highest and lowest salary of an employee per annum to the average salary of an employee per annum to the top 3 employee earners to the average of yearly increment of an employee to employees whose salaries per annum is above average.These analysis serve as a crucial means of improving employee's performance,growth,stability and makes room for improvement for better workflow in the organisation.
+
+
+
 
 
 
